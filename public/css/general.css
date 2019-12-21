@@ -1,0 +1,77 @@
+body {
+    background: #fff;
+}
+
+.header {
+    padding: 10px 0;
+}
+
+.list-group {
+    list-style: disc inside;
+}
+
+.list-group-item {
+    display: list-item;
+}
+
+.find-more {
+    text-align: right;
+}
+
+.label-theme {
+    background: #3AAA64;
+    font-size: 14px;
+    padding: .3em .7em .3em;
+    color: #fff;
+    border-radius: .25em;
+}
+
+.label a {
+    color: inherit;
+}
+
+.persons_picture {
+    width: 100%;
+    height: 200px;
+}
+
+h1,
+h2,
+h2 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 24px;
+}
+
+div,
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+#more_user_information {
+    margin-bottom: 30px;
+}
+
+.user_data_field {
+    min-height: 30px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.all-users-img {
+    max-height: 200px;
+    min-height: 200px;
+}
+
+.commentbox {
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    width: 74%;
+    margin: 10px 0;
+    margin-left: 0px;
+    background-color: #d3d3d3;
+}
+
+#donation_form {
+    margin-top: 40px;
+}
